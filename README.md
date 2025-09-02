@@ -8,20 +8,34 @@
 
 ### ⚡ Tech Snapshot  
 
-- **Programming:** Python, SQL, JavaScript  
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Power BI  
-- **AI/ML:** Machine Learning, Deep Learning (Learning Phase)  
-- **Tools:** Git, Jupyter Notebook, Streamlit  
-- **Cloud & DB:** MySQL, Oracle Cloud  
+```mermaid
+flowchart TD
+  A[Skills] --> B[Programming]
+  A --> C[Data]
+  A --> D[AI/ML]
+  A --> E[Tools]
+  A --> F[Cloud & DB]
 
----
+  B --> B1[Python]
+  B --> B2[SQL]
+  B --> B3[JavaScript]
 
-### 📌 Current Focus  
-- 📊 Building projects in **Data Analysis & Data Science**  
-- ⚙️ Exploring **Machine Learning models**  
-- 🚀 Preparing for a career as an **AI Engineer**  
+  C --> C1[Pandas]
+  C --> C2[NumPy]
+  C --> C3[Matplotlib]
+  C --> C4[Seaborn]
+  C --> C5[Scikit-Learn]
+  C --> C6[Power BI]
 
----
+  D --> D1[Machine Learning]
+  D --> D2[Deep Learning (Learning Phase)]
+
+  E --> E1[Git]
+  E --> E2[Jupyter Notebook]
+  E --> E3[Streamlit]
+
+  F --> F1[MySQL]
+  F --> F2[Oracle Cloud]
 
 ### 🤝 Connect with Me  
 [💼 LinkedIn](https://linkedin.com/in/YourProfile) · [🧑‍💻 GitHub](https://github.com/YourUsername) · 📧 **YourEmail@gmail.com**  
