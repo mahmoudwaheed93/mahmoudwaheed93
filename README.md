@@ -1,9 +1,11 @@
-# 👋 Hi, I'm Pratik Kumar  
-### 💻 Full Stack Engineer | AI/ML Enthusiast | Writer  
+# 👋 Hi, I'm Mahmoud Waheed
+### 🤖 AI Student | Data Enthusiast | Future AI Engineer  
 
-🚀 Software Engineer 2 at **Elucidata** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
+🎓 I'm currently studying **Artificial Intelligence** and learning **Data Analysis, Data Science, and Data Engineering** to build a strong foundation towards becoming a **Machine Learning & AI Engineer**.  
+💡 Passionate about solving real-world problems with AI, data, and innovative technologies.  
 
-Alternate id - [@pkelucidata](https://github.com/pkelucidata)
+
+Alternate id - [@pkelucidata](https://github.com/mahmoudwaheed93)
 
 ### ⚡ Tech Snapshot
 
@@ -74,7 +76,7 @@ mindmap
 📚 Featured on: [Substack](https://pratikkumar.substack.com) · [GitHub Blog](https://pr2tik1.github.io) · [Towards AI](https://towardsai.net/author/pratik-kumar)
 
 ### 🤝 Connect with Me  
-[🌐 Portfolio](https://pratik-kumar.netlify.app) · [💼 LinkedIn](https://linkedin.com/in/pratik-kumar04) · [🧑‍💻 GitHub](https://github.com/pr2tik1) · [📝 Substack](https://pratikkumar.substack.com) · 📧 **pr2tik1@gmail.com**
+[🌐 Portfolio](https://drive.google.com/file/d/1MtVKFaRBqVyPZlwTWel9nicDL6aF761d/view?usp=sharing) · [💼 LinkedIn](www.linkedin.com/in/mahmmoudwaheed) · [🧑‍💻 GitHub](https://github.com/mahmoudwaheed93) · · 📧 **mahmoudwaheedmahmoud31@gmail.com**
 
 Thanks for visiting! ✨ Let's build something awesome together.
 
