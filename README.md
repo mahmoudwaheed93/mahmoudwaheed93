@@ -28,7 +28,7 @@ flowchart TD
   C --> C6[Power BI]
 
   D --> D1[Machine Learning]
-  D --> D2[Deep Learning (Learning Phase)]
+  D --> D2[Deep Learning - Learning Phase]
 
   E --> E1[Git]
   E --> E2[Jupyter Notebook]
